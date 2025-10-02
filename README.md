@@ -1,5 +1,5 @@
 # 💫 About Me:
-Entry-level software developer, who just recently started his journey as a game developer and is looking for a job,<br>whether it be in the video games industry or outside of it.<br><br>🔭 Currently working on my small JRPG project "Agitated Apparitions".<br>🌱 Once I'm done with that, I'm going to learn how to build 3D games with Unreal Engine.<br>💬 Ask me about food, video games, anime, IT stuff, travelling, idk...<br>⚡ Fun fact: Racket is among the first programming languages I ever learned but never <br>      used it once after I finished a uni assignment.
+Entry-level software developer, who just recently started his journey as a game developer and is looking for a job,<br>whether it be in the video games industry or outside of it.<br><br>🔭 Currently working on my small JRPG project "Agitated Apparitions".<br>🌱 Once I'm done with that, I'm going to learn how to build 3D games with Unreal Engine.<br>💬 Ask me about food, video games, anime, IT stuff, travelling, idk...<br>⚡ Fun fact: Racket is among the first programming languages I've ever learned but never <br>      used it once after I'd finished a uni assignment.
 
 
 ## 🌐 Socials:
